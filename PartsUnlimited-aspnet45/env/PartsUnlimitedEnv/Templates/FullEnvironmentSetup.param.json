@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "WebsiteName": {
-      "value": null
+      "value": nextops
     },
     "PUL_ServerName": {
-      "value": null
+      "value": nextopssql
     },
     "PUL_DBLogin": {
       "value": "AdminUser"
@@ -27,7 +27,7 @@
       "value": "Basic"
     },
     "PUL_HostingPlanName": {
-      "value": null
+      "value": nextopsstd
     },
     "PUL_HostingPlanSKU": {
       "value": "Standard"
